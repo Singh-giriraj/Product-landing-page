@@ -108,7 +108,7 @@ h1{
 }
 .serv-cards{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     padding: 4rem 7rem;
     flex-wrap: wrap;
     /* gap: 2rem; */
@@ -165,6 +165,7 @@ h3, summary{
     display: flex;
     max-height: 50rem;
     padding: 0 7rem;
+    justify-content: space-around;
 }
 .info-img img{
     max-width: 57rem;
